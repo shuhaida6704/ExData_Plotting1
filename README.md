@@ -1,3 +1,5 @@
+##The figure.png files is in the figure folder
+
 ## Introduction
 
 This assignment uses data from
