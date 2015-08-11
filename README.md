@@ -1,4 +1,4 @@
-##The figure.png files is in the figure folder
+##The figures of plot1.png, plot2.png, plot3.png and plot4.png files is in the figure folder
 
 ## Introduction
 
